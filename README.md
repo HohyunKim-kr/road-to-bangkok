@@ -15,7 +15,7 @@ RTB 모듈 구성은 다음과 같다
 | 이더리움 베이직 | 이더리움과 EVM, 그리고 네트워크 구동 원리의 설명과 이를 이해하기 위한 미션 | [이더리움 베이직](https://github.com/Ludium-Official/road-to-bangkok/tree/main/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80%20%EB%B2%A0%EC%9D%B4%EC%A7%81) |
 | 솔리디티 베이직 | EVM 기반 스마트 컨트랙트 언어인 솔리디티 활용 방법 이해를 위한 이론과 미션 | [솔리디티 베이직](https://github.com/Ludium-Official/road-to-bangkok/tree/main/%EC%86%94%EB%A6%AC%EB%94%94%ED%8B%B0%20%EB%B2%A0%EC%9D%B4%EC%A7%81) |
 | 솔리디티 디앱 만들기 | 솔리디티 컨트랙트 기반 디앱 제작을 위한 개념과 실전 미션 | [솔리디티 디앱 만들기](https://github.com/Ludium-Official/road-to-bangkok/tree/main/%EC%86%94%EB%A6%AC%EB%94%94%ED%8B%B0%20%EB%94%94%EC%95%B1%20%EB%A7%8C%EB%93%A4%EA%B8%B0) |
-| 아비트럼 딥다이브 | 아비트럼 네트워크에 대한 개념 이해와 L2 메시징, 오르빗 체인 구현, 스타일러스SDK 기반 어플리케이션 제작 실습을 위한 미션 | [아비트럼 딥다이브](https://github.com/Ludium-Official/road-to-bangkok/tree/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C) |
+| 아비트럼 딥다이브 | 아비트럼 네트워크에 대한 개념 이해와 L2 메시징, 오르빗 체인 구현, 스타일러스SDK 기반 어플리케이션 제작 실습을 위한 미션 | [아비트럼 딥다이브](https://github.com/Madman-Never-Die/road-to-bangkok/tree/main/%EC%95%84%EB%B9%84%ED%8A%B8%EB%9F%BC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C) |
 
 # 제안 및 추가
 
